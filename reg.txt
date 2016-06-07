@@ -1,0 +1,5 @@
+Dmytro:1234:d.kobzar@gmail.com
+Igor:1234:i.kobzar@mail.ru
+Ivan:5678:i.kobzar@mail.ru
+Andrey:0987:and@ya.ru
+Dmytro:4567:kdi@gmail.com
