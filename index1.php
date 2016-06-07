@@ -2,10 +2,6 @@
 разделенные символами ':' (двоеточие). Удалить строки с повторами email.
 Удалить строки, в которых имена совпадают.-->
 
-<!--комментарий-->
-
-<!--комментарий 2-->
-
 <form enctype="multipart/form-data" method="POST">
     <input type="hidden" name="MAX_FILE_SIZE" value="30000"/>
     <input type="file" name="regData"/>
